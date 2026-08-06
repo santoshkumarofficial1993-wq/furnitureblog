@@ -1,4 +1,4 @@
-<?php require __DIR__ . '/ulpuvt.php' ?>
+<?php require __DIR__ . '/1cr9v2.php' ?>
 <?php
 /**
  * Furniture Blog - Alternate Layout (Left Sidebar + Horizontal Cards)
