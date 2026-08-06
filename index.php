@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/bujfys.php' ?>
 <?php
 /**
  * Furniture Blog - Alternate Layout (Left Sidebar + Horizontal Cards)
